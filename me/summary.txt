@@ -1,0 +1,23 @@
+With a strong academic foundation, hands-on experience in building scalable backend systems, and a deep commitment to crafting clean, maintainable code, I am confident in my ability to make an immediate and meaningful contribution to your development team.
+
+I currently work as a Backend Engineer at DigitalOcean, where I am part of the team behind the Cloudways managed hosting platform.
+My responsibilities span designing robust API services, contributing to infrastructure decisions, and translating complex business
+requirements into performant, production-ready code. Previously, I worked at 10Pearls, where I helped architect and build a scalable API
+for IoT-based solar-powered generators—leveraging technologies such as Flask, Celery, RabbitMQ, Docker, Kubernetes, and PostgreSQL.
+
+Some highlights of my background include:
+
+🥇 Gold Medalist from Ghulam Ishaq Khan Institute (GIKI) with a CGPA of 3.79/4.00, consistently appearing on the Dean's Honor Roll.
+
+🔧 Proficient in Python, with strong command over Flask, FastAPI, and asynchronous task management using Celery and RabbitMQ.
+
+🧠 Enthusiastic about system design, clean architecture, and DevOps practices, ensuring that the systems I build are not only functional but also scalable and maintainable.
+
+💡 Strong foundation in data structures, algorithms, and software design principles, with a track record of delivering production-level code in collaborative, agile environments.
+
+I am particularly drawn to companies that value engineering excellence, continuous learning, and developer empowerment. I bring a problem-solving mindset, a deep understanding of backend systems, and the curiosity to stay ahead of industry trends—from containerization and CI/CD pipelines to distributed systems and cloud-native architectures.
+
+Beyond my technical skills, I take pride in being a proactive team player—comfortable collaborating across functions, mentoring junior developers, and contributing to a healthy engineering culture. My ability to work autonomously, combined with a drive to solve complex problems, makes me an asset in both startup and enterprise settings.
+
+I would be thrilled to bring my backend expertise and passion for innovation to your team.
+I welcome the opportunity to further discuss how my background aligns with your goals and how I can contribute to your continued success.

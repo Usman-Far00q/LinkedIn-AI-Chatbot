@@ -1,0 +1,13 @@
+[project]
+name = "linkedin-chatbot"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = [
+    "dotenv>=0.9.9",
+    "gradio>=5.32.1",
+    "openai>=1.84.0",
+    "pdfreader>=0.1.15",
+    "pypdf>=5.6.0",
+]
